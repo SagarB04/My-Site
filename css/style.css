@@ -126,13 +126,13 @@ a:hover
 }
 .pro-para
 {
-    margin: auto;
-    width: 80%;
+    line-height: 2;
 }
 .contact-me
 {
     margin: 80px auto 80px auto;
     line-height: 50PX;
+    width: 50%;
 
 }
 hr
@@ -175,7 +175,6 @@ hr
 .p-margin
 {
     margin:auto auto 40px;
-    width: 40%;
     line-height: 2;
 
 }
