@@ -14,14 +14,14 @@ body
 .bottom-cloud
 {
     position: absolute;
-    left: 200px;
-    bottom: 430px;
+    left: 180px;
+    bottom: 360px;
 }
 .top-cloud
 {
     position: absolute;
-    top: 50px;
-    right: 200px;
+    top: 70px;
+    right: 190px;
 }
 h1{
     font-family: 'Sacramento', cursive;
