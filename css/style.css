@@ -193,7 +193,13 @@ hr
 }
 .copyright
 {
+    display: inline-block;
     font-family: 'Merriweather', serif;
-    font-size: .75rem;
+    font-size: .8rem;
     color: #EAF6F6;
+}
+.cpyr-div
+{
+    width: 40%;
+    margin: auto;
 }
